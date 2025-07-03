@@ -3,7 +3,6 @@
 <div align="center">
 <img src="xeon.jpg" alt="Pepe" width="170" />
 
-## P3P3 SIR 🌝💝
 
 </div>
 
@@ -11,7 +10,7 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
- <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917736622139?text=Hello"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
+ <a href="https://github.com/roshanx0"><img title="Author" src="https://img.shields.io/badge/Author-Pepe-blue.svg?style=for-the-badge&logo=github" /></a>  <a href="https://Wa.me/+917736622139?text=Hello"><img title="Author" src="https://img.shields.io/badge/Owner-Pepe-blue.svg?style=for-the-badge&logo=whatsapp" /></a>
 <p align="center">
 </p>
 
@@ -21,7 +20,7 @@
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/pepesir/PEPE-SIR) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/roshanx0/PEPE-SIR) 
 
 
 # Requirements
@@ -39,7 +38,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/pepesir/PEPE-SIR/blob/master/session.json#L1)
+[`Click Here`](https://github.com/roshanx0/PEPE-SIR/blob/master/session.json#L1)
 
 
 # Installation
@@ -47,7 +46,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 
 ``` 
-git clone https://github.com/pepesir/PEPE-SIR.git
+git clone https://github.com/roshanx0/PEPE-SIR.git
 ```
 ```
 cd PEPE-SIR
@@ -91,7 +90,7 @@ pkg install wget
 pkg install imagemagick -y
 ```
 ```
-git clone https://github.com/pepesir/PEPE-SIR
+git clone https://github.com/roshanx0/PEPE-SIR
 ```
 ```
 cd PEPE-SIR
