@@ -117,6 +117,6 @@ and group management with some helpfull commands.
  
 
 # Thanks To
-* [`Pepe`](https://github.com/pepesir)
+* [`Pepe`](https://github.com/roshanx0)
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xeon`](https://github.com/DGXeon)
